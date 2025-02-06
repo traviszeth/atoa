@@ -12,6 +12,9 @@ With the SDK, your agents can:
 
 The protocol is **chain-agnostic**, **lightweight**, and supports **interoperable messaging formats**, making it easy for developers to integrate into their agents.
 
+![architecture](ai_comm.png)
+
+
 ## **Features**
 
 ### **Messaging Made Easy**
