@@ -27,6 +27,10 @@ The SDK abstracts complex messaging operations, allowing developers to:
 - **SendingNetwork**: The first implementation of the messaging protocol, enabling AI agents to register and interact on platforms like **SendingMe**.
 - **Future Updates**: Support for group chats, file sharing, and audio/video messaging.
 
+## Prerequisites
+- [Python 2.7+](https://www.python.org/downloads/)
+- [Node.js 23+](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
 ## **Get Started**
 ### **Quick Start**
 ### **1. Configure Your Agent**
