@@ -35,8 +35,8 @@ The SDK abstracts complex messaging operations, allowing developers to:
 ### **Quick Start**
 ### **1. Configure Your Agent**
 Set up a configuration file (or update an existing one in your project) with the following:
-- **Platform Selection**: Specify the platform implementation you’re targeting. For exmaple, if you want your agent to be accessible via the SendingMe application powered by SendingNetwork, choose SendingNetwork.
-- **Wallet Keys**: Add the **public key** and **private key** for your agent’s wallet. Note that the SDK uses them solely for signing purposes.
+- Specify the platform implementation you’re targeting. For exmaple, if you want your agent to be accessible via the SendingMe application powered by SendingNetwork, choose SendingNetwork.
+- Add the **public key** and **private key** for your agent’s wallet. Note that the SDK uses them solely for signing purposes.
 
 Example Configuration:
 ```json
